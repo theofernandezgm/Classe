@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classe.iml" filepath="$PROJECT_DIR$/Classe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mètodes/MetodesEx1/MetodesEx1.iml" filepath="$PROJECT_DIR$/Mètodes/MetodesEx1/MetodesEx1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mètodes/MetodesEx2/MetodesEx2.iml" filepath="$PROJECT_DIR$/Mètodes/MetodesEx2/MetodesEx2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/StringsEx2/StringsEx2.iml" filepath="$PROJECT_DIR$/Strings/StringsEx2/StringsEx2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/StringsEx3/StringsEx3.iml" filepath="$PROJECT_DIR$/Strings/StringsEx3/StringsEx3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/StringsEx4/StringsEx4.iml" filepath="$PROJECT_DIR$/Strings/StringsEx4/StringsEx4.iml" />
+    </modules>
+  </component>
+</project>
