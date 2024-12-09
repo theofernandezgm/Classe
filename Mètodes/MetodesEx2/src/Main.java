@@ -3,9 +3,10 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
+        int numero = 0;
         Scanner scanner = new Scanner(System.in);
         for(int i = 0; i < 6; i++) {
-            int numero = input(scanner);
+            numero = input(scanner);
         }
         int guanyador = numaleatori();
         if (numero == guanyador){
